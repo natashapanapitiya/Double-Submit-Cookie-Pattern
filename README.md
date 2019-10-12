@@ -9,6 +9,6 @@ Steps:
 
 3.Clone this project folder and save it inside this folder - C:\wamp\www\
 
-4.Open the browser and type http://localhost/Double_Submit_CookiesPattern/login.php
+4.Open the browser and type http://localhost/wamp/www/Double_Submit_Cookies_Pattern/login.html
 
-For more information check the blog post - https://techgear17.blogspot.com/2018/10/double-submit-cookies-pattern.html
+For more information check the blog post - https://doublesubmitcookiepattern.blogspot.com/2019/10/double-submit-cookie-pattern-what-is.html
